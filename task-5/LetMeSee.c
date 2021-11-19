@@ -1,4 +1,4 @@
-/All these header files are needed to support code, or are they all there?
+//All these header files are needed to support code, or are they all there?
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
