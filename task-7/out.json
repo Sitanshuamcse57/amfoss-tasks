@@ -1,0 +1,12 @@
+[
+	{"age":"50","country_or_territory":"United States","name":"Elon Musk","net_worth":"$286.7 B","source_of_income":"Tesla, SpaceX"},
+	{"age":"57","country_or_territory":"United States","name":"Jeff Bezos","net_worth":"$211.7 B","source_of_income":"Amazon"},
+	{"age":"72","country_or_territory":"France","name":"Bernard Arnault & family","net_worth":"$198.9 B","source_of_income":"LVMH"},
+	{"age":"66","country_or_territory":"United States","name":"Bill Gates","net_worth":"$139.1 B","source_of_income":"Microsoft"},
+	{"age":"77","country_or_territory":"United States","name":"Larry Ellison","net_worth":"$128.3 B","source_of_income":"software"},
+	{"age":"48","country_or_territory":"United States","name":"Larry Page","net_worth":"$127.9 B","source_of_income":"Google"},
+	{"age":"48","country_or_territory":"United States","name":"Sergey Brin","net_worth":"$123.2 B","source_of_income":"Google"},
+	{"age":"37","country_or_territory":"United States","name":"Mark Zuckerberg","net_worth":"$121.1 B","source_of_income":"Facebook"},
+	{"age":"65","country_or_territory":"United States","name":"Steve Ballmer","net_worth":"$107.2 B","source_of_income":"Microsoft"},
+	{"age":"91","country_or_territory":"United States","name":"Warren Buffett","net_worth":"$101.9 B","source_of_income":"Berkshire Hathaway"},
+]
