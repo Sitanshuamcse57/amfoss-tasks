@@ -1,1 +1,1 @@
-![task-1 output](screenshot.png "task-1 output")
+![task-1 output](Screenshot.png "task-1 output")
