@@ -1,5 +1,1 @@
-![task-0 output](install1.jpeg "task-0 output")
-![task-0 installguide](installguide.doc "task-0 installguide")
-![task-0 installguide2](install2.jpeg "task-0 installguide2")
-![task-0 installguide3](install3.jpeg "task-0 installguide3")
-![task-0 installguide4](install4.jpeg "task-0 installguide4")
+![task-0 output](https://dev.to/southguydude/installing-ubuntu-2004-1562 "task-0 output")
